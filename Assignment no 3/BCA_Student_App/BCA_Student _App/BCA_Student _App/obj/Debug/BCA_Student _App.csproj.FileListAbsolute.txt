@@ -24,3 +24,16 @@ D:\C#.net\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\
 D:\C#.net\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student _App.csproj.CoreCompileInputs.cache
 D:\C#.net\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student _App.exe
 D:\C#.net\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student _App.pdb
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\bin\Debug\BCA_Student _App.exe.config
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\bin\Debug\BCA_Student _App.exe
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\bin\Debug\BCA_Student _App.pdb
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student _App.csproj.AssemblyReference.cache
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student__App.frm_login.resources
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student__App.frm_Student_List.resources
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student__App.Properties.Resources.resources
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student__App.frm_Add_Student_details.resources
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student__App.frm_Search_Student.resources
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student _App.csproj.GenerateResource.cache
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student _App.csproj.CoreCompileInputs.cache
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student _App.exe
+D:\C#\Assignment no 3\BCA_Student_App\BCA_Student _App\BCA_Student _App\obj\Debug\BCA_Student _App.pdb

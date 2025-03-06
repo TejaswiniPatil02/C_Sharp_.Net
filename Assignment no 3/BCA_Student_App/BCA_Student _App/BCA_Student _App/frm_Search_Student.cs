@@ -31,7 +31,7 @@ namespace BCA_Student__App
         {
             if (Con.State != ConnectionState.Closed)
             {
-                Con_Close();
+                Con.Close();
             }
         }
 
@@ -98,9 +98,9 @@ namespace BCA_Student__App
 
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = Con;
-            cmd.CommandText = "select * from Add_Student_Details where Roll_No = @roll_No";
+            cmd.CommandText = "select * from Student_Details where Roll_No = @roll_No";
 
-            cmd.Parameters.Add("@Roll_No", SqlDbType.Int).Value =int.Parse( tb_Roll_No.Text);
+            cmd.Parameters.Add("@roll_No", SqlDbType.Int).Value =int.Parse( tb_Roll_No.Text);
 
             SqlDataReader Dr = cmd.ExecuteReader();
 
@@ -108,8 +108,8 @@ namespace BCA_Student__App
             {
                 tb_Name.Text = Dr.GetString(Dr.GetOrdinal("Name"));
                 tb_Mob_No.Text = (Dr["Mobile_No"].ToString());
-                dtp_DOB.Text = (Dr["Date_of_Birth"].ToString());
-                cmb_Course.Text = (Dr["Courses"].ToString());
+                dtp_DOB.Text = (Dr["DOB"].ToString());
+                cmb_Course.Text = (Dr["Course"].ToString());
             }
             else
             {

@@ -33,6 +33,7 @@ namespace BCA_Student__App
             this.btn_logout = new System.Windows.Forms.Button();
             this.btn_Student_Details = new System.Windows.Forms.Button();
             this.dgv_Student_list = new System.Windows.Forms.DataGridView();
+            this.lbl_UName = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Student_list)).BeginInit();
             this.SuspendLayout();
             // 
@@ -66,7 +67,7 @@ namespace BCA_Student__App
             this.btn_Student_Details.BackColor = System.Drawing.Color.Pink;
             this.btn_Student_Details.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Student_Details.ForeColor = System.Drawing.Color.DarkSlateBlue;
-            this.btn_Student_Details.Location = new System.Drawing.Point(352, 503);
+            this.btn_Student_Details.Location = new System.Drawing.Point(365, 537);
             this.btn_Student_Details.Name = "btn_Student_Details";
             this.btn_Student_Details.Size = new System.Drawing.Size(347, 74);
             this.btn_Student_Details.TabIndex = 15;
@@ -78,18 +79,31 @@ namespace BCA_Student__App
             // 
             this.dgv_Student_list.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.dgv_Student_list.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv_Student_list.Location = new System.Drawing.Point(23, 97);
+            this.dgv_Student_list.Location = new System.Drawing.Point(-14, 80);
             this.dgv_Student_list.Name = "dgv_Student_list";
             this.dgv_Student_list.RowHeadersWidth = 51;
             this.dgv_Student_list.RowTemplate.Height = 24;
-            this.dgv_Student_list.Size = new System.Drawing.Size(1019, 400);
+            this.dgv_Student_list.Size = new System.Drawing.Size(1056, 451);
             this.dgv_Student_list.TabIndex = 16;
+            // 
+            // lbl_UName
+            // 
+            this.lbl_UName.AutoSize = true;
+            this.lbl_UName.BackColor = System.Drawing.SystemColors.Menu;
+            this.lbl_UName.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_UName.ForeColor = System.Drawing.Color.DarkRed;
+            this.lbl_UName.Location = new System.Drawing.Point(12, 21);
+            this.lbl_UName.Name = "lbl_UName";
+            this.lbl_UName.Size = new System.Drawing.Size(95, 29);
+            this.lbl_UName.TabIndex = 17;
+            this.lbl_UName.Text = "UName";
             // 
             // frm_Student_List
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1044, 609);
+            this.Controls.Add(this.lbl_UName);
             this.Controls.Add(this.dgv_Student_list);
             this.Controls.Add(this.btn_Student_Details);
             this.Controls.Add(this.btn_logout);
@@ -97,6 +111,7 @@ namespace BCA_Student__App
             this.Name = "frm_Student_List";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Student List";
+            this.Load += new System.EventHandler(this.frm_Student_List_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_Student_list)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -109,5 +124,6 @@ namespace BCA_Student__App
         private System.Windows.Forms.Button btn_logout;
         private System.Windows.Forms.Button btn_Student_Details;
         private System.Windows.Forms.DataGridView dgv_Student_list;
+        private System.Windows.Forms.Label lbl_UName;
     }
 }

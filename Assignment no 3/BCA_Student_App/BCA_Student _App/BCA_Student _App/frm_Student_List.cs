@@ -32,6 +32,9 @@ namespace BCA_Student__App
                  
         }
 
-        
+        private void frm_Student_List_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
