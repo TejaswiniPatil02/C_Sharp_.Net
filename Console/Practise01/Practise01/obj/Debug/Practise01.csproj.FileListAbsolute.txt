@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Practise01\Practise01\bin\Debug\Practise01.exe.config
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Practise01\Practise01\bin\Debug\Practise01.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Practise01\Practise01\bin\Debug\Practise01.pdb
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Practise01\Practise01\obj\Debug\Practise01.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Practise01\Practise01\obj\Debug\Practise01.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Practise01\Practise01\obj\Debug\Practise01.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Practise01\Practise01\obj\Debug\Practise01.pdb
