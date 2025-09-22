@@ -1,0 +1,6 @@
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program04\Program04\bin\Debug\Program04.exe.config
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program04\Program04\bin\Debug\Program04.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program04\Program04\bin\Debug\Program04.pdb
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program04\Program04\obj\Debug\Program04.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program04\Program04\obj\Debug\Program04.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program04\Program04\obj\Debug\Program04.pdb
