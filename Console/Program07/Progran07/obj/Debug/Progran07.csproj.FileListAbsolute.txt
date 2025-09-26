@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Progran07\Progran07\bin\Debug\Progran07.exe.config
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Progran07\Progran07\bin\Debug\Progran07.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Progran07\Progran07\bin\Debug\Progran07.pdb
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Progran07\Progran07\obj\Debug\Progran07.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Progran07\Progran07\obj\Debug\Progran07.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Progran07\Progran07\obj\Debug\Progran07.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Progran07\Progran07\obj\Debug\Progran07.pdb
