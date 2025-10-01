@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program08\Program08\bin\Debug\Program08.exe.config
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program08\Program08\bin\Debug\Program08.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program08\Program08\bin\Debug\Program08.pdb
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program08\Program08\obj\Debug\Program08.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program08\Program08\obj\Debug\Program08.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program08\Program08\obj\Debug\Program08.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program08\Program08\obj\Debug\Program08.pdb
