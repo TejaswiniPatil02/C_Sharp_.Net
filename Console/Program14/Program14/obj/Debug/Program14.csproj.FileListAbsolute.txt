@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program14\Program14\bin\Debug\Program14.exe.config
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program14\Program14\bin\Debug\Program14.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program14\Program14\bin\Debug\Program14.pdb
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program14\Program14\obj\Debug\Program14.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program14\Program14\obj\Debug\Program14.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program14\Program14\obj\Debug\Program14.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program14\Program14\obj\Debug\Program14.pdb
