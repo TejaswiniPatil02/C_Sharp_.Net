@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program16\Program16\bin\Debug\Program16.exe.config
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program16\Program16\bin\Debug\Program16.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program16\Program16\bin\Debug\Program16.pdb
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program16\Program16\obj\Debug\Program16.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program16\Program16\obj\Debug\Program16.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program16\Program16\obj\Debug\Program16.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program16\Program16\obj\Debug\Program16.pdb
