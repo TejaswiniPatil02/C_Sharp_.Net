@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\bin\Debug\netcoreapp3.1\Program18.exe
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\bin\Debug\netcoreapp3.1\Program18.deps.json
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\bin\Debug\netcoreapp3.1\Program18.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\bin\Debug\netcoreapp3.1\Program18.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\bin\Debug\netcoreapp3.1\Program18.dll
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\bin\Debug\netcoreapp3.1\Program18.pdb
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\obj\Debug\netcoreapp3.1\Program18.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\obj\Debug\netcoreapp3.1\Program18.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\obj\Debug\netcoreapp3.1\Program18.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\obj\Debug\netcoreapp3.1\Program18.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\obj\Debug\netcoreapp3.1\Program18.dll
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\obj\Debug\netcoreapp3.1\Program18.pdb
+C:\Users\HP\OneDrive\Desktop\teju patil\C#\Console\Program18\obj\Debug\netcoreapp3.1\Program18.genruntimeconfig.cache
